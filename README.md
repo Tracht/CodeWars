@@ -2,7 +2,7 @@
 
 ### Various CodeWar challenges completed in JavaScript
 
-#### Multiples of 3 and Five 
+#### Multiples of Three and Five 
 
 Task: Return the sum of the multiples of 3 and 5 below a number.    
 Examples:   
