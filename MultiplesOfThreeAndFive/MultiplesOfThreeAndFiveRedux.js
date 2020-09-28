@@ -1,8 +1,8 @@
 function getSumOfNumberUsingMultiplesOfThreeAndFive(number){ 
 
   function getSumOfMultiple(multiple, number){
-    n = Math.floor((number-1)/multiple);
-    sumOfMultiple = ((multiple * n) / 2) * (1 + n)
+    var n = Math.floor((number-1)/multiple);
+    var sumOfMultiple = ((multiple * n) / 2) * (1 + n)
     return sumOfMultiple
   };
 
