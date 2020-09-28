@@ -1,4 +1,4 @@
-function getSumOfNumberUsingMultiplesOfThreeAndFive(number){ 
+function getSumOfNumberUsingMultiplesOf3and5(number){ 
 
   function getSumOfMultiple(multiple, number){
     var n = Math.floor((number-1)/multiple);
@@ -13,5 +13,5 @@ function getSumOfNumberUsingMultiplesOfThreeAndFive(number){
 
 }
 
-module.exports = getSumOfNumberUsingMultiplesOfThreeAndFive;
+module.exports = getSumOfNumberUsingMultiplesOf3and5;
 
