@@ -1,12 +1,8 @@
-const soundFrequency = (track, minFreq, maxFreq) => {
+const soundFrequency = (track, minFreq = 40, maxFreq = 1000) => {
 
   var min = minFreq; 
   var max = maxFreq; 
   newTrack = [];
-
-  // loop over track
-  // if element < minFreq, then replace it
-  // if element > maxFreq, then replace it
 
   track.map((element) => {
     if ( element < min ) { 
