@@ -1,4 +1,4 @@
-const facebookLikes = require('./FacebookLIkes');
+const facebookLikes = require('./index');
 
 array1 = [];
 array2 = ['Peter'];

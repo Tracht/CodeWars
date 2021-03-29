@@ -1,4 +1,4 @@
-const soundFrequency = require('./SoundFreq')
+const soundFrequency = require('./index')
 
 var track1 = [30, 40, 50, 1000, 1200, 300];
 var modifiedTrack1 = [40, 40, 50, 1000, 1000, 300];
