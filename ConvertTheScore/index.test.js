@@ -19,7 +19,7 @@ describe("new score: two three", () => {
 
 describe("two two", () => {
     it("returns [2,2]", () => {
-        expect(convertTheScore(score3)).toEqual([2,3]);
+        expect(convertTheScore(score3)).toEqual([2,2]);
     })
 });
 
