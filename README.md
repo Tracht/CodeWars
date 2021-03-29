@@ -5,6 +5,7 @@
 * FBLikes: given the number of Facebook likes, display the correct message.
 * Sound Freq: given an array of integers (representing sound frequencies), return a new array that brings the values into the specified range, where the default range is 40 min and 1000 max, but these values can be amended. 
 * Convert the score (7kyu)
+* Sort an array of City Objects by name and population. 
 
 ### To Do
 * Olympic Rings (7ku)
