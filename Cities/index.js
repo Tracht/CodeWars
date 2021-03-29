@@ -11,9 +11,7 @@ const sortCities = (array, sortFunction) => {
     return array.sort(sortFunction);
 };
 const sortAtoZ = (a, b) => {
-    var memberA = a.name;
-    var memberB = b.name;
-    return memberA < memberB ? -1 : memberA > memberB ? 1 : 0;
+    return a.name < b.name ? -1 : a.name > b.name ? 1 : 0;
 }
 const sortZtoA = (a, b) => {
     return a.name < b.name ? 1 : a.name > b.name ? -1 : 0;
