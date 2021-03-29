@@ -1,3 +1,5 @@
+// return the sum of multiples of 3 and 5 below a given number
+
 function getSumOfNumberUsingMultiplesOf3and5(number){ 
 
   function getSumOfMultiple(multiple, number){

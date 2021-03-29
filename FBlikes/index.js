@@ -1,3 +1,5 @@
+// Given the number of Facebook likes, display the correct message.
+
 const facebookLikes = (array) => {
   if (array.length === 0) return 'No one likes this';
   
