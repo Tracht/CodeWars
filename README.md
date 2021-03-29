@@ -6,7 +6,7 @@
 * Sound Freq: given an array of integers (representing sound frequencies), return a new array that brings the values into the specified range, where the default range is 40 min and 1000 max, but these values can be amended. 
 * Convert the score (7kyu)
 
-### To Do
+### To Do
 * Olympic Rings (7ku)
 * Birthday II - Presents (7ku)
 * Hells Kitchen (7ku)
